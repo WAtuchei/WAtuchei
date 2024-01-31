@@ -20,7 +20,9 @@ const codeName = "WAtuchei"
 
 ### 🌱 Learning in this year :
 <div>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="nodejs" width="60" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/243/809/png-transparent-representational-state-transfer-application-programming-interface-computer-icons-others-miscellaneous-text-logo.png" alt="API" width="40" height="40"/>
   <img src="https://www.w3schools.com/whatis/img_ajax.jpg" alt="AJAX" width="40" height="40"/>
@@ -34,6 +36,7 @@ const codeName = "WAtuchei"
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfjeWuUH2gnnnNC22QUAGToTaY1CCkcVGYuf2fjBVwQ&s" alt="jQuerry" width="40" height="40"/>
